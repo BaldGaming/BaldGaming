@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itay Rosen</h1>
-<h3 align="center">A passionate Software Engineer developer (to be) from Israel.</h3>
+<h3 align="center">A passionate (to be) Software Engineer developer from Israel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baldgaming&label=Profile%20views&color=0e75b6&style=flat-square" alt="baldgaming" /> </p>
 
