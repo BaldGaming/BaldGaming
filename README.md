@@ -28,10 +28,11 @@
 - **Run Logger:** Developed an Android application that parses running workout statistics from screenshots and syncs the data directly to a custom Notion database via API.
 
 ### 💻 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,py,js,html,css,androidstudio,blender,ps,ai" alt="My Skills" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" alt="C" title="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin" title="Kotlin" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio" title="Android Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="45" height="45" alt="Blender" title="Blender" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop" title="Photoshop" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Illustrator" title="Illustrator" />
-
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaldGaming&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
