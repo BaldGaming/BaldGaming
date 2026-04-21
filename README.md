@@ -1,38 +1,50 @@
-<h1 align="center">Hi 👋, I'm Itay Rosen</h1>
-<h3 align="center">Software Engineering Student | Systems Architecture & Low-Level Enthusiast</h3>
+<div align="center">
+  <img src="https://github.com/BaldGaming.png" width="130" height="130" alt="Itay Rosen" style="border-radius: 50%; border: 3px solid #0e75b6;" />
+  
+  <h1>Hi there, I'm Itay Rosen 👋</h1>
+  <h3>Systems Architecture Enthusiast | Backend Fanatic | SE Student</h3>
+  
+  <p>
+    📍 Karmiel, Israel &nbsp;&bull;&nbsp; 🪖 IDF Shaldag Unit Veteran &nbsp;&bull;&nbsp; 🎓 Ort Braude College '28
+  </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=baldgaming&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
-</p>
+  <p>
+    <a href="https://linkedin.com/in/itay-rosen-a686b8218"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.leetcode.com/baldgaming"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+    <a href="https://github.com/baldgaming"><img src="https://komarev.com/ghpvc/?username=baldgaming&label=Views&color=0e75b6&style=flat-square" alt="Views"></a>
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a Software Engineering student driven by a deep fascination with low-level architecture and computer logic. I genuinely enjoy peeling back the layers of abstraction—whether that means studying CPU registers or building custom network protocols from the ground up.
+
+My approach to engineering is heavily influenced by my military service. As a Combatant Driver in the IDF's Shaldag Unit, I learned how to execute complex logistical operations under intense pressure. Today, I apply that same resilience and rapid problem-solving mindset to tackling rigorous backend architectures and algorithmic challenges. 
+
+---
+
+## 🛠️ The Toolbox
 
 <p align="center">
-  <a href="https://linkedin.com/in/itay-rosen-a686b8218" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/baldgaming" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,py,js,html,css,androidstudio,blender,ps,ai" alt="My Skills" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Sc. **Software Engineering** student at Ort Braude College (Class of 2028).
-- ⚙️ Deeply interested in **computer logic, systems architecture, and network protocols**. I thrive on diving deep into how software interacts with hardware.
-- 🚀 Bringing a high-pressure, problem-solving mindset to complex algorithmic challenges (Background: IDF Combatant Driver, Shaldag Unit).
-- 🎯 Currently looking for opportunities in rigorous backend development or systems-oriented roles.
+## 💻 Featured Builds
 
-### 🛠️ Featured Projects
-- **Riptide:** Engineered a custom BitTorrent client application in C#, implementing complex peer-to-peer network protocols and concurrent downloading mechanisms.
-- **VIA:** Built an accessible Android media player tailored for the visually impaired, featuring a secure OAuth2 Refresh Token system for seamless Dropbox API integration.
-- **Run Logger:** Developed an Android application that parses running workout statistics from screenshots and syncs the data directly to a custom Notion database via API.
+> **Riptide**
+> A custom BitTorrent client engineered in C#. Designed with complex peer-to-peer networking architecture, Bencode decoding, and efficient concurrent downloading mechanisms.
 
-### 💻 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,py,js,html,css,androidstudio,blender,ps,ai" alt="My Skills" />
-</p>
+> **VIA**
+> An accessible Android media player meticulously designed for visually impaired users. It features a sliding window cache and an automated, secure OAuth2 Refresh Token system for seamless Dropbox API integration.
 
-<br>
+> **Run Logger**
+> An Android utility app that automatically parses running workout statistics from screen grabs and syncs the extracted data directly to a custom Notion database via API.
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaldGaming&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
