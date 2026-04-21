@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/BaldGaming.png" width="130" height="130" alt="Itay Rosen" style="border-radius: 50%; border: 3px solid #0e75b6;" />
-  
+<div align="center">  
   <h1>Hi there, I'm Itay Rosen 👋</h1>
   <h3>Systems Architecture Enthusiast | Backend Fanatic | SE Student</h3>
   
