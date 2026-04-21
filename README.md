@@ -17,9 +17,7 @@
 
 ## 🚀 About Me
 
-I am a Software Engineering student driven by a deep fascination with low-level architecture and computer logic. I genuinely enjoy peeling back the layers of abstraction—whether that means studying CPU registers or building custom network protocols from the ground up.
-
-My approach to engineering is heavily influenced by my military service. As a Combatant Driver in the IDF's Shaldag Unit, I learned how to execute complex logistical operations under intense pressure. Today, I apply that same resilience and rapid problem-solving mindset to tackling rigorous backend architectures and algorithmic challenges. 
+I'm a Software Engineering student driven by a deep curiosity for computer logic and systems architecture. I thrive when I'm peeling back the layers of abstraction, from understanding CPU registers to engineering custom network protocols. Armed with a resilient, rapid problem-solving mindset forged during my time in the IDF's Shaldag Unit, I specialize in tackling rigorous backend architectures and building reliable, high-performance software.
 
 ---
 
