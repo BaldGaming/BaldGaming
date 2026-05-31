@@ -43,5 +43,5 @@ I'm a Software Engineering student driven by a deep curiosity for computer logic
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baldgaming&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=0e75b6&amp;icon_color=0e75b6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaldGaming&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&v=1" alt="GitHub Stats" />
 </div>
